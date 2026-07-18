@@ -1,0 +1,8 @@
+{
+  "name": "Sirius Field",
+  "description": "A high-performance, offline-first field sales CRM for store clock-ins, task execution, and order management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
